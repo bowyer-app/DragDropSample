@@ -3,7 +3,7 @@ This is sample code of [Drag and Drop](https://developer.android.com/guide/topic
 
 <img src="/demo/demo.gif" width=320/>
 
-This code is part of the [KyudoScoreBook](https://play.google.com/store/apps/details?id=com.bowyer.KyudoScoreBookSecond).
+This code is part of the [KyudoScoreBookPro](https://play.google.com/store/apps/details?id=com.bowyer.app.kyudoscore.pro).
 
 
 # LICENSE
